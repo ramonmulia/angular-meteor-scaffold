@@ -1,6 +1,6 @@
-**Execute /private/EXECUTE_Linux.sh (for linux users) inside your project to prepare your app**
+**Execute /private/EXECUTE_Linux.sh (for linux users) inside your project to prepare it.**
 
-This file will do:
+The execution of file will do:
 
 - Remove unnecessary dependencies
 - Install angular 1 and other dependencies
